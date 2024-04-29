@@ -1,6 +1,6 @@
 # IMSON: Convert Image Text to Structured JSON
 
-![IMSON Logo](https://drive.google.com/file/d/1dPfpzdvRumvt-9-iohFnJQYO-BssNgvJ/view?usp=sharing)
+![IMSON Logo](https://res.cloudinary.com/dkscouusb/image/upload/v1714418422/zishmmksqcqz1cmnvn0c.jpg)
 
 IMSON is an open-source project that simplifies the process of extracting text from images, structuring it into JSON format, and providing meaningful insights. Whether you're dealing with scanned documents, question papers, or any other text-rich images, IMSON streamlines the conversion process efficiently.
 
