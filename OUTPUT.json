@@ -1,3 +1,513 @@
-{
-    "help":"Get your output here..."
-}
+[
+    {
+        "question": "me, I would be happy to dedicate a few extra hours for the humanitarian cause.",
+        "options": ["As of", "As for", "As from", "As to"],
+        "correct": "B",
+        "Explanation": "“As for me” here means that as long as I am concerned."
+    },
+    {
+        "question": "Choose the correct possessive form of the noun: “The book belongs to ",
+        "options": ["lt's", "It", "Its’", "Its"],
+        "correct": "B",
+        "Explanation": "“It” is the only correct objective pronoun, as it is the object of the sentence."
+    },
+    {
+        "question": "Are we __ to leave on vacation?",
+        "options": ["already", "altogether", "all together", "all ready"],
+        "correct": "D",
+        "Explanation": "“All ready” is the most appropriate option."
+    },
+    {
+        "question": "He is very careful. He his children to drive his car in rush hour traffic.",
+        "options": ["does not allow", "did not allow", "allowed", "allow"],
+        "correct": "A",
+        "Explanation": "The first sentence is in present simple tense (sub+ 1st verb+ object). Therefore the other part of the sentence also takes simple present tense. “does not allow” follows the present simple tense according to a singular subject “he”."
+    },
+    {
+        "question": "The coach’s insistence on fitness has become ____.Heyells at players all the time.",
+        "options": ["Emotional", "dilatory", "obsessive", "rational"],
+        "correct": "C",
+        "Explanation": "According to the context of the sentence, “obsessive” is the most appropriate option. Obsessive means to be too attached to something."
+    },
+    {
+        "question": "What is the meaning of the idiom “Break a leg”?",
+        "options": ["Literally breaks aleg", "Bad luck", "Good luck", "Running fast"],
+        "correct": "C",
+        "Explanation": "Break a leg means to wish someone good luck."
+    },
+    {
+        "question": "What is the antonym for “generous”?",
+        "options": ["Giving", "Stingy", "Kind", "Selfish"],
+        "correct": "D",
+        "Explanation": "Generous means “selfless, giving”. The opposite of generous is “selfish”."
+    },
+    {
+        "question": "Which of the following is a synonym of “Exquisite”?",
+        "options": ["Beautiful", "Ugly", "Mediocre", "Boring"],
+        "correct": "A",
+        "Explanation": "Exquisite means “beautiful”."
+    },
+    {
+        "question": "CHUCKLE means:",
+        "options": ["Bouquet of flowers", "Suppressed laughter", "Displeasing manner", "Religious manner"],
+        "correct": "C",
+        "Explanation": "Chuckle is a quiet or suppressed laughter."
+    },
+    {
+        "question": "BRILLIANT implies:",
+        "options": ["Sparking", "Glorious", "Talented", "Slowly"],
+        "correct": "A",
+        "Explanation": "Brilliant is closest in meaning to “sparkling, shining’-"
+    },
+    {
+        "question": "There are fishes in the pond.",
+        "options": ["Much", "Any", "More", "Many"],
+        "correct": "D",
+        "Explanation": “Many fishes in the pond” means there are many opportunities in the world."
+    },
+    {
+        "question": "Mathematics difficult but fantastic.",
+        "options": ["Seems", "Seeming", "Seemed", "Seem"],
+        "correct": "A",
+        "Explanation": "Mathematical is a singular subject, therefore it sill take a singular verb “seems”, in the present tense."
+    },
+    {
+        "question": "We are eager the scientist.",
+        "options": ["To meet", "Meet", "To have meet", "Meeting"],
+        "correct": "A",
+        "Explanation": “to meet” is the most appropriate option. The others are grammatically in correct in this context."
+    },
+    {
+        "question": "Two and two four.",
+        "options": ["Can be", "Makes", "Make", "Is equal to"],
+        "correct": "C",
+        "Explanation": "Compound subjects having “and/or” take a plural verb, here “make”."
+    },
+    {
+        "question": "Don’t poke yournose _______my affairs.",
+        "options": ["In", "On", "Into", "Onto"],
+        "correct": "C",
+        "Explanation": “Poking nose into someone’s business” is a famous idiom that means to meddle in someone else’s affairs."
+    },
+    {
+        "question": "I was tired I went to bed.",
+        "options": ["So", "For", "Since", "Yet"],
+        "correct": "A",
+        "Explanation": “So” is the most appropriate preposition, showing cause and affect according to the context."
+    },
+    {
+        "question": "1use my umbrella it rains.",
+        "options": ["When", "Whenever", "Unless", "Until"],
+        "correct": "B",
+        "Explanation": "Whenever is most suitable according to the context of the sentence which is in present tense."
+    },
+    {
+        "question": "He is good chess.",
+        "options": ["In", "At", "With", "By"],
+        "correct": "B",
+        "Explanation": “At” preposition is used when talking about being good at games and sports."
+    },
+    {
+        "question": "She writes ink.",
+        "options": ["With", "Of", "In", "From"],
+        "correct": "C",
+        "Explanation": "When we use ( pen) to write, we use ( ink) instead of (pen). Then we have to use the preposition (in ) but not ( with)."
+    }
+,{
+                question:"When we use pencil, we have to use ( with) but not (
+                in).",
+                options:['with','in'],
+                correct:"A",
+                Explanation:'“With” is used when we talk about
+                instruments'
+            },
+            {
+                question:"We have to get up early",
+                options:['On', 'In','At','During'],
+                correct:"C",
+                Explanation:' We use in with morning, afternoon, evening and
+                night, but we use on when we talk about a specific
+                morning, afternoon, etc'
+            },
+            {
+                question:"She
+
+                speak Pashto.",
+                options:['May','Can','Might','Ought'],
+                correct:"B",
+                Explanation:'Can shows the ability to do something, it is the most
+                suitable auxiliary .'
+            },
+            {
+                question:"This house is her house. The house is",
+                options:['Hers','Her','She','She’s'],
+                correct:"A",
+                Explanation:'Among these options, “hers” is the only correct
+                possessive pronoun .'
+            },
+            {
+                question:"The railway system is very efficient as the train
+                always arrive __time.",
+                options:['Up','For','At','On'],
+                correct:"D",
+                Explanation:'We use “at” before time when we mention a specific
+                time. As in — at 5 o’ clock.'
+            },
+            {
+                question:"What is a figure of speech in which two unlike
+                things are compared using “like” or “as”?",
+                options:['Metaphor','Simile','Personification','Hyperbole'],
+                correct:"A",
+                Explanation:'Similes use words “like” or “ as” e.g cool as a
+                cucumber'
+            },
+            {
+                question:"What is the name for a group of words that
+                contains a subject and a verb but does not express a
+                complete thought.",
+                options:['Phrase', 'Clause','Sentence','Imperative'],
+                correct:"A",
+                Explanation:'Phrase is a group of words that doesn’t express a
+                complete thought.'
+            },
+            {
+                question:"What is the term for a sentence that gives a
+                command to make a request?",
+                options:['Statement','Question','Exclamation','Imperative'],
+                correct:"D",
+                Explanation:'An imperative sentence is a sentence that expresses a
+                direct command, request, invitations, warning, or
+                instruction.'
+            },
+            {
+                question:" what is the term for a sentence that expresses
+                strong emotion or surprise?",
+                options:['Statement','Question','Exclamation','Imperative'],
+                correct:"C",
+                Explanation:'An exclamatory sentence conveys a strong emotion and ends
+                with an exclamation mark.'
+            },
+            {
+                question:"Select the synonym for “ubiquitous”",
+                options:['Rare','Common','Unique','Extravagant'],
+                correct:"B",
+                Explanation:'Ubiquitous means something that is present,
+                appearing, or found everywhere.'
+            },
+            {
+                question:"What is the synonym for the word “ephemeral”?",
+                options:['Eternal','Temporary','Permanent','Endless'],
+                correct:"B",
+                Explanation:'Ephemeral means something that is temporary or
+                lasts for a very short time.'
+            },
+            {
+                question:"Which figure of speech involves the use of
+                exaggeration for emphasis or effect?",
+                options:['Metaphor','Simile','Hyperbole','Personification'],
+                correct:"C",
+                Explanation:'Hyperboles are exaggerated statements or claims not
+                meant to be taken literally.'
+            },
+            {
+                question:"Which part of speech is used to describe a noun or
+                pronoun?",
+                options:['Verb','Conjunction','Adverb','Adjective'],
+                correct:"D",
+                Explanation:'Adjectives modify or describe nouns and pronouns'
+            }
+
+            ,{
+                "question":"Explanation:D\n\nBreak the ice means to do or say something that\nmakes people who do not know each other feel more\ncomfortable:e.g I tried to break the ice by talking to\nthe people",
+                "options":["A.Not surprising","B.Traffic mishap","C.Nothing weird","D.Seeing strange"],
+                "correct":"A",
+                "Explanation":"No wonder is a phrase that means “it is not\nsurprising”."
+            },
+            {
+                "question":"37.ACQUAINTANCE mean a person whom:",
+                "options":["A.One love but whom one can’t marry","B.One knows but who isn’t a close friend","C.One can depend on for help in hour of need","D.One can hire for attempting a question paper"],
+                "correct":"B",
+                "Explanation":"An acquaintance is a person one knows slightly, but\nwho is not a close friend."
+            },
+            {
+                "question":"38.“no wonder” implies:",
+                "options":["A.Not surprising","B.Traffic mishap","C.Nothing weird","D.Seeing strange"],
+                "correct":"A",
+                "Explanation":"No wonder is a phrase that means “it is not\nsurprising”."
+            },
+            {
+                "question":"39. AMICABLE is nearly opposite in meaning to:",
+                "options":["A.Amiable","B. Hostile","C. Indispensable","D. Inimical"],
+                "correct":"B",
+                "Explanation":"Amicable is an adjective used for someone who is\nfriendly. Its opposite is hateful or hostile (aggressive)."
+            },
+            {
+                "question":"40. He’s grieving his deceased father.",
+                "options":["A At","B. For","C.On","D. Over"],
+                "correct":"B",
+                "Explanation":"Grieve means “to feel very sad, especially because\nsomebody has died”. “For” is used when grieving for\npeople. “over” is used when grieving for things."
+            },
+            {
+                "question":"41. The boys got __the bus at the terminal.",
+                "options":["A. From","B.Of","C. Off","D. All"],
+                "correct":"C",
+                "Explanation":"Get off means to leave a place."
+            },
+            {
+                "question":"42. The thief ran the street to the other\nside and hide under the bridge.",
+                "options":["A. Over","B. Across","C. Along","D. Beside"],
+                "correct":"B",
+                "Explanation":"When talking about going from one side of the street\nto the other, we use the preposition “across”."
+            },
+            {
+                "question":"43. He was seen to school:",
+                "options":["A. went","B. going","C.go","D. gone"],
+                "correct":"B",
+                "Explanation":"This is a sentence of Past continuous tense, which\nalways uses 4t form of verb, here “going”.\nSub + was/were + 4th form of verb+ object."
+            },
+            {
+                "question":"44. linsist\nstatement.",
+                "options":["A. For","B. At","C.On","D.In"],
+                "correct":"C",
+                "Explanation":"The standard preposition to use after insist is “on”.\nFor example “I insist on knowing the truth”"
+            },
+            {
+                "question":"45. The president\non TV tonight.",
+                "options":["A. Speaks","B. Will speak","C. Has spoken","D. Is speaking"],
+                "correct":"B",
+                "Explanation":"We use “will” for future events that have not happened yet."
+            },
+            {
+                "question":"46.You are called names by him.",
+                "options":["A.He’s calling your name","B. He called your name.","C. He calls your names","D. He has been calling your names","E. Not change"],
+                "correct":"C",
+                "Explanation":"The question statement is of present simple tense in\npassive voice, we have to change in to active voice. In\nthe present simple, the passive is: am / is / are + past\nparticiple (34 form of the verb). We have to simple\nconvert it into active version of present simple tense\n(subject + 1sr form of verb + object)."
+            },
+            {
+                "question":"47.Why have you broken this jug?",
+                "options":["A. Why this jug has been broken by you?","B. Why has this jug been broken by you?","C. Why have this jug been broken by you?","D. Why had this jug been broken by you?","E.Not change"],
+                "correct":"B",
+                "Explanation":"1) Convert the object of the Assertive Sentence into\nthe subject of the Passive Voice Sentence.\n\n2) Use the helping verb have been/ has been\naccording to the subject of the Passive Voice\nSentence.\n\n3) Use 3t form of the Verb.\n\n4) Then use the word “by”, to show the doer.\n5) Then convert the subject of the Active Voice\nsentence into the object of the Passive Voice sentence.\n\n6) In the end, add the remaining words if there are\nany in the Active Voice Sentence."
+            },
+            {
+                "question":"48. The principal has forbidden smoking on the\ncampus.",
+                "options":["A. Smoking has been forbidden on the campus by the\nprincipal","B. Smoking had been forbidden on the campus by the\nprincipal","C. Smoking was being forbidden on the campus by the\nprincipal","D.Itis forbidden by the principal to smoke in the\ncamps","E. Not change"],
+                "correct":"A",
+                "Explanation":"In the present perfect form with the passive, we\nalways use ‘has/have been’ + the past participle\nform”."
+            },
+            {
+                "question":"49. The students will go camping _ the\nvacations.",
+                "options":["A At","B. During","C. For","D.In"],
+                "correct":"B",
+                "Explanation":"The preposition “during” is used for talking about\ngoing somewhere in the middle of vacation or\nholidays"
+            },
+            {
+                "question":"50. When she comes senses, she asked to see\nher son.",
+                "options":["A.In","B.To","C. At","D. Into"],
+                "correct":"B",
+                "Explanation":"The phrase “coming to senses” means regaining\nconsciousness or waking up."
+            },
+            {
+                "question":"51. She is very nice to look:",
+                "options":["A. At","B.By","C. Beside","D. On"],
+                "correct":"A",
+                "Explanation":"“nice to look at” is a phrase used it to describe\nsomething that is pleasing to the eye, or generally\nattractive"
+            },
+            {
+                "question":"52. Allah, The Almighty, has blessed him a\nson.",
+                "options":["A. By","B. Along","C.From","D.With"],
+                "correct":"D",
+                "Explanation":"Blessed with means “granted a good thing”"
+            },{
+                "question":"Seeing you again.",
+                "options":["On","By","To","At"],
+                "correct":"D",
+                "Explanation":"“Looking forward to” is followed by “to”."
+            },
+            {
+                "question":"CEMETERY most nearly means?",
+                "options":["Graveyard","Factory","System","Pattern"],
+                "correct":"A",
+                "Explanation":"A cemetery is a graveyard where dead people are buried."
+            },
+            {
+                "question":"He was lying",
+                "options":["Laying","Lying","Lieing","Lied"],
+                "correct":"B",
+                "Explanation":"Lying in bed or on the bed is correct. The verb is ‘to lie’ and its gerund form is lying."
+            },
+            {
+                "question":"In grammatical context ARTICLES allude to?",
+                "options":["A, An, the","Since & for","Lexical verb","Word classes"],
+                "correct":"D",
+                "Explanation":"Articles are used to indicate whether a noun in a sentence is specific or general. In this context, articles allude or suggest word classes, whether they are specific or general words."
+            },
+            {
+                "question":"He waited",
+                "options":["Beyond","Before","Until","Unless"],
+                "correct":"C",
+                "Explanation":"Until is a preposition which means ‘up to the point in time mentioned'."
+            },
+            {
+                "question":"I enjoy tennis",
+                "options":["To play","Plays","Playing","To playing"],
+                "correct":"C",
+                "Explanation":"The part of the sentence “I enjoy to play” is not grammatically correct in written English. Instead, you would need to use the correct structure: “I enjoy playing”."
+            },
+            {
+                "question":"Which one is an auxiliary?",
+                "options":["Did","At","On","By"],
+                "correct":"A",
+                "Explanation":"Did is an auxiliary verb, the rest are prepositions."
+            },
+            {
+                "question":"It's raining cats and dogs",
+                "options":["Few","A few","A big number of","A great deal of"],
+                "correct":"A",
+                "Explanation":"Few” and “a few” are not the same—"few” means “a small number,” and “a few” means “some.” Option A is the most appropriate."
+            },
+            {
+                "question":"Most people agree that kindergarten contributes",
+                "options":["On","To","Among","Of"],
+                "correct":"B",
+                "Explanation":"We use the preposition “to” after the word contribute or contributes."
+            },
+            {
+                "question":"Do you have calculator?",
+                "options":["A","An","The","No article"],
+                "correct":"A",
+                "Explanation":"The indefinite article “ A” should be used in this sentence to talk about a non specific common calculator."
+            },
+            {
+                "question":"The train leaves 7 O'clock, hurry up!",
+                "options":["At","In","Around","Under"],
+                "correct":"A",
+                "Explanation":"We usually use at with clock times and mealtimes."
+            },
+            {
+                "question":"I lived on",
+                "options":["A","An","The","No article"],
+                "correct":"D",
+                "Explanation":"As a rule do not use Article with the names of streets, avenues, lanes, roads, and boulevards."
+            },
+            {
+                "question":"Sher khan is playing",
+                "options":["In","On","At","Off"],
+                "correct":"B",
+                "Explanation":"Use on with days of the week (e.g., on Sunday, on Monday, and so on)."
+            },
+            {
+                "question":"Identify error in the given sentence",
+                "options":["No error","At everything","I1do","He finds fault"],
+                "correct":"B",
+                "Explanation":"The wrong preposition “at” is used."
+            },
+            {
+                "question":"I bought",
+                "options":["A","An","The","No article"],
+                "correct":"A",
+                "Explanation":"Words beginning with consonant sounds take the indefinite article “A”."
+            },
+            {
+                "question":"Identify errors from the given sentence",
+                "options":["If your hear","Engaged tone","Replace the receiver and dial again","No error"],
+                "correct":"B",
+                "Explanation":"An article ‘an/the’ should be used before the word ‘engaged tone’."
+            },
+            {
+                "question":"My friend has been living",
+                "options":["On","At","In","Across"],
+                "correct":"C",
+                "Explanation":"We use the preposition “in” when talking about cities, towns, and villages."
+            },{
+                question:"We will need
+AA
+C. The",
+                options:['B. An','D. No article'],
+                correct:"B",
+                Explanation:'Words beginning with vowels and vowel sounds take\nthe indefinite article “An”.'
+            },
+            {
+                question:"Find error “Smoking is undoubtedly very\ninjurious for health”.",
+                options:['A. Smoking is undoubtedly','B. Very injurious','C. For health','D. No error'],
+                correct:"C",
+                Explanation:'Replace ‘for’ with ‘to’. ‘Injurious’ is followed by\npreposition ‘to’.'
+            },
+            {
+                question:"Find error “these all mangoes are ripe”: ",
+                options:['A.These all','B. Mangoes','C. Areripe','D.No error'],
+                correct:"A",
+                Explanation:'The sequence of the sentence is wrong. It should be\n“all these mangoes are ripe”.'
+            },
+            {
+                question:"1dentify error “Her knowledge in English gives her\ngreat advantage over me"“.",
+                options:['A. Her knowledge in English','B. Gives her great advantage','C. Over me','D. No error'],
+                correct:"A",
+                Explanation:'It is preposition related error. Hence, Her knowledge\nof English .... Should be used here.\nE.g He has a wide knowledge of painting and music.'
+            },
+            {
+                question:"Trust God.",
+                options:['A.On','B.In','C.To','D. None'],
+                correct:"B",
+                Explanation:'Usually in is used after trust or “believe”.\nE.g We trust in one God'
+            },
+            {
+                question:"NEPOTISM means",
+                options:['A. Criticism','B. Socialism','C. Favoritism','D. Monotheism'],
+                correct:"C",
+                Explanation:'Nepotism is the practice among those with power or\ninfluence of favouring relatives, friends, or associates,\nespecially by giving them jobs or in simple words\n“favoritism”.'
+            },
+            {
+                question:"Add some milkand sugar ________inyour tea.",
+                options:['A.To','B.In','C.On','D. Into'],
+                correct:"A",
+                Explanation:'You should use “add to” when the sentence specifies\nwhat is receiving the sugar and “add in” (or just\n“add”) when it doesn’t. Compare\n[ have a glass of milk. Can I add sugar to it?\nVs\nI have a glass of milk. Can I add in sugar?'
+            },
+            {
+                question:"Pakistan has to fight to win the test\nseries from India.",
+                options:['A. Dagger and Sword','B. Lame and Lime','C. Tooth and Nail','D. Sweat and Water'],
+                correct:"C",
+                Explanation:'“To fight tooth and nail” is an idiom meaning to try\nhard and make effort to get something you want.'
+            },
+            {
+                question:"The number of friends and family members at the\nparty amazing.",
+                options:['A.Was','B. Were','C. Had','D. Have had'],
+                correct:"A",
+                Explanation:'“was” is a singular verb used according to the single\nunit “ the number of”.'
+            },
+            {
+                question:"When she was in the university, she wake\nup early in the morning.",
+                options:['A.Can','B. would','C. will','D. would have'],
+                correct:"B",
+                Explanation:'When it comes to talking about repeated past actions,\n‘would’ is used.'
+            },
+            {
+                question:"Yesterday she got a call from her old friend, the\nfriend __her the whole story.",
+                options:['A.tell','B. tells','C. told','D. Has been telling'],
+                correct:"C",
+                Explanation:'The first clause of the sentence is in past tense,\ntherefore the second clause will also use a past tense\nverb. Here “told”.'
+            },
+            {
+                question:"If you work really hard, you\nin the upcoming examination.",
+                options:['A. will get','B. will got','C. would get','D. would got'],
+                correct:"A",
+                Explanation:'According to the first clause of the sentence we can\nobserve it is a sentence of 1st conditional .\nThe first conditional is used to express the future\nconsequence of a realistic possibility now or in the\nfuture. To make a sentence in the first conditional, we\nuse,\nIf + present simple, will/won’t + verb.'
+            },
+            {
+                question:"It was raining heavy yesterday, so they ___out:",
+                options:['A. did not go','B. did not went','C. would not go','D. would not gone'],
+                correct:"A",
+                Explanation:'The first clause is in past continuous tense, so the\nnext part of the sentence will also take the form of a\npast tense. A option is the most appropriate, and after\n“did” we always use first form of verb, here “go”.'
+            },
+            {
+                question:"Her thinking leans____ democracy:",
+                options:['A. With','B. Towards','C.For','D. None of these'],
+                correct:"B",
+                Explanation:'“leans towards” is an actual phrase meaning inclined\ntowards a specific thing.'
+            },
+            {
+                question:"Building has been built",
+                options:['A. According','B. In accordance with','C.For','D. About'],
+                correct:"B",
+                Explanation:'The phrases “in accordance with” refers to agreement\nor conformity with an authority, rules or procedures.\nWe could have used “according” or “accordingly” if\nthey were followed by “to”.'
+            }]

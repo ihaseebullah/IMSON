@@ -1,7 +1,7 @@
 {
-  "name": "server",
+  "name": "data_processing_module",
   "version": "1.0.0",
-  "description": "Here i introduces my very first ai project",
+  "description": "Here i introduces my very first opensource project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
