@@ -38,29 +38,14 @@ app.listen(3000, async () => {
     let completeData;
     console.log("Starting to process data...")
     for (let i = 1; i < 100; i++) {
-        const batchSize = 300;
+        const batchSize = 200;
         const portionOfData = readLinesInBatches(filePath, batchSize, i);
         if (portionOfData === "") {
             break;
         } else {
             const prompt = `
-            Valid JSON Data Format
-            Prompt:
-            It is a solved question paper can you please convert it to this form 
-            The output must match the exect thing format below now enline no nothing
-            please convert all data.
-            [{
-                question:"me, I would be happy to dedicate a few
-                extra hours for the humanitarian cause.",
-                options:['As of','As for','As from','As to'],
-                correct:"B",
-                Explanation:'“As for me” here means that as long as I am
-                concerned.'
-            }] 
-            (For Ai:"" Donot use inverted commas,\n and other signature as it will blow up my code) and remove all the inveted commas if there are any in the prompt
-            
-            The data i want you to process:
-    ${portionOfData}
+            You need to convert a solved question paper into JSON format. Correct any nonsensical questions, and add placeholders where necessary for fill-in-the-blank options. Ensure that the output adheres to the specified JSON format without any additional characters like line breaks or inverted commas. Include an example output to illustrate the expected JSON structure, ensuring that it captures the question, options, correct answer, and explanation for each question.
+            ${portionOfData}
     `
             const result = await model.generateContent(prompt);
             const response = await result.response;
@@ -68,7 +53,7 @@ app.listen(3000, async () => {
             completeData += text;
             completeData = completeData.replace("][", ",")
         }
-        console.log("Portion Number: " + i + " Lines read: " + i * 300)
+        console.log("Portion Number: " + i + " Lines read: " + i * 200)
     }
     console.log("Completed.Writing file to the drive....")
     console.log(completeData)
