@@ -1,4 +1,3 @@
-undefined```json
 {
   "questions": [
     {
@@ -135,7 +134,7 @@ undefined```json
     }
   ]
 }
-``````json
+
 [
   {
     "question": "We are eager the scientist.",
@@ -319,7 +318,7 @@ undefined```json
     "explanation": "**Protect:** infinitive form of the verb, used after modal verbs (e.g., must, should).\n**Protecting:** present participle, used for continuous actions or states."
   }
 ]
-``````json
+
 {
   "questions": [
     {
@@ -467,7 +466,7 @@ undefined```json
     }
   ]
 }
-``````json
+
 {
   "questions": [
     {
