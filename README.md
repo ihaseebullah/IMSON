@@ -35,7 +35,7 @@ IMSON is an open-source project that simplifies the process of extracting text f
 
 1. **Data Extraction Module**:
 
-    - Run the script with appropriate arguments to extract text from images or PDFs. Specify the number of pages in the PDF using the `-n` or `--pages` argument.
+    - Run the script with appropriate arguments to extract text from images or PDFs. Specify the number of pages within the PDF using the `-n` or `--pages` argument.
 
     ```bash
     python reader.py --help
