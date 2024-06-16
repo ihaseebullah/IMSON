@@ -13,7 +13,7 @@ IMSON is an open-source project that simplifies the process of extracting text f
   
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
 
     ```bash
     git clone https://github.com/ihaseebullah/IMSON.git
