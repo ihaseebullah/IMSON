@@ -4,6 +4,7 @@ from PIL import Image
 import pdf2image
 import os
 
+
 def extract_text_from_pdf(pdf_path, output_dir):
     # Convert PDF to images
     images = pdf2image.convert_from_path(pdf_path)
