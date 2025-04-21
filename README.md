@@ -1,4 +1,4 @@
-# IMSON: Convert Image Text to Structured JSON
+# IMSON:Convert Image Text to Structured JSON
 
 ![IMSON Logo](https://res.cloudinary.com/dkscouusb/image/upload/v1714418417/o7v98bvsxlswvflofh2b.png)
 
